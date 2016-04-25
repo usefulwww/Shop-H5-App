@@ -1,4 +1,3 @@
-
 /*---END---*/
 .faststoreBox{
 	padding: 1rem;
@@ -7,7 +6,6 @@
 .faststoreBox .modulebox-content{
 	width: 100%;
 	height: 100%;
-	/*background-color: #FFFFFF;*/
 }
 .faststoreBox .content-left{
 	padding: .5rem;
@@ -34,7 +32,6 @@
 	padding: 0 1rem;
 	height: 100%;
 	width: 70%;
-	/*background-color: red;*/
 }
 .faststoreBox .content-right .title{
 	font-size: 1.3rem;
@@ -47,11 +44,8 @@
 	color: #666;
 }
 .faststoreBox .content-right .type{
-	/*background-color: red;*/
 	position: relative;
 	bottom: -1rem;
-	/*background-color: red;*/
-	/*vertical-align: bottom;*/
 }
 .faststoreBox .content-right .designate{
 	display: inline-block;
@@ -88,10 +82,8 @@ span.icon-daodian,span.icon-waisong{
 	background-position: center center;
 	border-radius: 1rem;
 	background-color: #FFFFFF;
-	
 }
 span.icon-daodian{
-	
 	background-image: url(../images/daodian.png);
 }
 span.icon-waisong{
